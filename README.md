@@ -1,6 +1,6 @@
 # rn-assignment5-11157784
 Overview
-This project is a mobile application. The app includes a Home screen, a Settings screen, and a feature that allows users to switch between light and dark themes. 
+This project is a mobile application. The app includes a Home screen, a Settings screen, and a feature that allows users to switch between light and dark themes.
 
 Features
 Home Screen: Displays the main content as per the UI mockup.
@@ -12,8 +12,8 @@ Clone the repository to your local machine:
 bash
 Copy code
 git clone https://github.com/your-VenessaAsiedu/rn-assignment5-11157784.git
-cd rn-assignment5-ID
-Install the necessary dependencies:
+cd rn-assignment5-11157784
+Install dependencies 
 
 bash
 Copy code
@@ -27,7 +27,7 @@ npx react-native run-ios # For iOS
 Development Process
 Repository Creation: Created a new repository named rn-assignment5-ID and cloned it to the local machine.
 
-Setup: Set up the initial project structure using React Native CLI.
+Setup: Setting up the initial project structure using React Native CLI.
 
 Home Screen: Implemented the Home screen based on the provided UI mockup. Committed changes.
 
@@ -38,23 +38,12 @@ Theme Switching: Developed the theme switcher feature to toggle between light an
 Styling: Styled the application to closely match the provided UI design. Used custom components throughout the app. Committed changes.
 
 Screenshots
-Home Screen (Light Theme)
+Home Screen (Light Theme) [alt text](Card/assets/lightscreen2.jpg)
 
-Home Screen (Dark Theme)
+Home Screen (Dark Theme) [alt text](Card/assets/darkscreen1.jpg)
 
-Settings Screen (Light Theme)
+Settings Screen (Light Theme) [alt text](Card/assets/lightscreen1.jpg)
 
-Settings Screen (Dark Theme)
 
-Resources
-UI Design: Access the UI Design here
-Resources: Download from Google Drive
-Custom Components
-Header: A reusable header component.
-Button: A custom button component with theme support.
-ThemeSwitcher: A component for toggling between light and dark themes.
-How to Switch Themes
-Navigate to the Settings screen.
-Use the theme switcher toggle to switch between light and dark themes.
-Conclusion
-This project demonstrates the implementation of a React Native application with a focus on UI design, custom components, and theme switching functionality. Each feature was developed and committed separately to ensure clarity and organization.
+Settings Screen (Dark Theme) [alt text](Card/assets/darkscreen2.jpg)
+
