@@ -10,7 +10,7 @@ const HomeScreen = ({ isDarkTheme }) => {
           <Image source={require('../assets/penguin.png')} style={styles.profilePic} />
           <View style={styles.headerText}>
             <Text style={[{ color: '#bfbfbf', fontSize: 24 }, isDarkTheme ? styles.textDark : styles.textLight]}>Welcome back,</Text>
-            <Text style={[{ fontWeight: 'bold' }, isDarkTheme ? styles.textDark : styles.textLight]}>Nana Yaw Oteng</Text>
+            <Text style={[{ fontWeight: 'bold' }, isDarkTheme ? styles.textDark : styles.textLight]}>Venessa Asiedu</Text>
           </View>
           <Icon name="search" size={24} color={isDarkTheme ? 'white' : 'black'} />
         </View>

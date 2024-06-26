@@ -38,12 +38,12 @@ Theme Switching: Developed the theme switcher feature to toggle between light an
 Styling: Styled the application to closely match the provided UI design. Used custom components throughout the app. Committed changes.
 
 Screenshots
-Home Screen (Light Theme) [alt text](Card/assets/lightscreen2.jpg)
+Home Screen (Light Theme) [alt text](my-app\assets\lightscreen1.jpg)
 
-Home Screen (Dark Theme) [alt text](Card/assets/darkscreen1.jpg)
+Home Screen (Dark Theme) [alt text](my-app\assets\darkscreen2.jpg)
 
-Settings Screen (Light Theme) [alt text](Card/assets/lightscreen1.jpg)
+Settings Screen (Light Theme) [alt text](my-app\assets\darkscreen2.jpg)
 
 
-Settings Screen (Dark Theme) [alt text](Card/assets/darkscreen2.jpg)
+Settings Screen (Dark Theme) [alt text]()
 

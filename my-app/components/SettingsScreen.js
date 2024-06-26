@@ -8,23 +8,23 @@ const SettingsScreen = ({ isDarkTheme, setIsDarkTheme }) => {
       <Text style={[styles.settings,isDarkTheme ? styles.textDark : styles.textLight]}>Settings</Text>
       <View style={styles.settingContainer}>                           
       <Text style={[styles.settingText,isDarkTheme ? styles.textDark : styles.textLight]}>Language</Text>
-      <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}>></Text>
+      <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}></Text>
       </View>
        <View style={styles.settingContainer}>
       <Text style={[styles.settingText,isDarkTheme ? styles.textDark : styles.textLight]}>My Profile</Text>
-      <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}>></Text>
+      <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}></Text>
       </View>
       <View style={styles.settingContainer}>
         <Text style={[styles.settingText,isDarkTheme ? styles.textDark : styles.textLight]}>Contact Us</Text>
-        <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}>></Text>
+        <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}></Text>
       </View>
       <View style={styles.settingContainer}>
         <Text style={[styles.settingText,isDarkTheme ? styles.textDark : styles.textLight]}>Change Password</Text>
-        <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}>></Text>
+        <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}></Text>
       </View>
       <View style={styles.settingContainer}>
         <Text style={[styles.settingText,isDarkTheme ? styles.textDark : styles.textLight]}>Privacy Policy</Text>
-        <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}>></Text>
+        <Text style={[styles.arrow,isDarkTheme ? styles.textDark : styles.textLight]}></Text>
       </View>
       <View style={styles.settingItem}>
         <Text style={[styles.settingText,isDarkTheme ? styles.textDark : styles.textLight]}> Theme</Text>
