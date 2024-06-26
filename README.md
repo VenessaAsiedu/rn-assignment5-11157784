@@ -1,6 +1,6 @@
 # rn-assignment5-11157784
 Overview
-This project is a React Native mobile application designed based on a provided UI mockup. The app includes a Home screen, a Settings screen, and a feature that allows users to switch between light and dark themes. The app is styled to closely match the provided UI design, and custom components are used throughout the application.
+This project is a mobile application. The app includes a Home screen, a Settings screen, and a feature that allows users to switch between light and dark themes. 
 
 Features
 Home Screen: Displays the main content as per the UI mockup.
@@ -11,7 +11,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/rn-assignment5-ID.git
+git clone https://github.com/your-VenessaAsiedu/rn-assignment5-11157784.git
 cd rn-assignment5-ID
 Install the necessary dependencies:
 
