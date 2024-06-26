@@ -38,7 +38,7 @@ Theme Switching: Developed the theme switcher feature to toggle between light an
 Styling: Styled the application to closely match the provided UI design. Used custom components throughout the app. Committed changes.
 
 Screenshots
-![Home Screen Light](my-app\assets\lightscreen1.jpg)
+![Home Screen Light](C:\Users\ProX\Desktop\rn-assignment5-11157784\rn-assignment5-11157784\my-app\assets\lightscreen1.jpg)
 
 ![Dark Screen](my-app\assets\darkscreen2.jpg)
 
